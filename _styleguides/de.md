@@ -336,7 +336,7 @@ eine Änderung am Original oder stelle selbst einen Pull-Request in
 Wir sollten uns auf Weblate ausschließlich als Übersetzer und nicht als
 Autoren verstehen.
 
-> :arrow_forward:: Computes the arctan of x
+> :arrow_forward: Computes the arctan of x
 >
 > :x: Berechnet den Arcustangens von x. Der Arcustangens ist die Umkehrfunktion
 > des Tangens.
