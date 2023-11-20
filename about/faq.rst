@@ -47,7 +47,7 @@ Which platforms are supported by Godot?
 
 **For exporting your games:**
 
-* Windows (and UWP)
+* Windows
 * macOS
 * Linux, \*BSD
 * Android
@@ -68,6 +68,13 @@ about :ref:`doc_consoles`.
 For more on this, see the sections on :ref:`exporting <toc-learn-workflow-export>`
 and :ref:`compiling Godot yourself <toc-devel-compiling>`.
 
+.. note::
+
+    Godot 3 also had support for Universal Windows Platform (UWP). This platform
+    port was removed in Godot 4 due to lack of maintenance, and it being
+    deprecated by Microsoft. It is still available in the current stable release
+    of Godot 3 for interested users.
+
 Which programming languages are supported in Godot?
 ---------------------------------------------------
 
@@ -82,8 +89,8 @@ focusing on Time-To-Market (TTM), GDScript will provide a fast, friendly, and ca
 way of developing your games.
 
 Note that C# support is still relatively new, and as such, you may encounter
-some issues along the way. C# support is also currently missing on Android, iOS
-and web platforms. Our friendly and hard-working development community is always
+some issues along the way. C# support is also currently missing on the web
+platform. Our friendly and hard-working development community is always
 ready to tackle new problems as they arise, but since this is an open source
 project, we recommend that you first do some due diligence yourself. Searching
 through discussions on
