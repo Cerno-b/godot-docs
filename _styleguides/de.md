@@ -193,7 +193,8 @@ Begriffe finden. Dies mag an der einen oder anderen Stelle etwas ungewohnt wirke
 aber es gibt viele Situationen, in denen damit Übersetzungsprobleme vermieden werden können.
 
 Sollte es vorkommen, dass eine Regel unsinnig erscheint, sollte das im
-[Chat](https://chat.godotengine.org/channel/translation-de) diskutiert werden. Um einen Überblick über die dokumentierten Begriffe
+[Chat](https://chat.godotengine.org/channel/translation-de) diskutiert werden.
+Um einen Überblick über die dokumentierten Begriffe
 zu bekommen, die englisch bleiben sollen, lohnt sich ein
 Blick ins [Glossar](https://hosted.weblate.org/browse/godot-engine/glossary/de/).
 Sollte ein Begriff dort nicht hinterlegt sein, kann man die Suchfunktion
@@ -218,7 +219,7 @@ Beispiel 2:
 >
 > :x: Ziehen, um den View zu pannen.
 >
-> :heavy_check_mark: Ziehen um den View zu verschieben
+> :heavy_check_mark: Ziehen, um den View zu verschieben
 
 
 Das erste Beispiel stammt aus dem Audio-Bereich, wo Stereo-Panning ein gängiger
