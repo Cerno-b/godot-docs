@@ -1,5 +1,6 @@
 source,destination
 /about/index.html,/index.html
+/about/troubleshooting.html,/tutorials/troubleshooting.html
 /classes/_classes.html,/classes/
 /community/contributing/best_practices_for_engine_contributors.html,/contributing/development/best_practices_for_engine_contributors.html
 /community/contributing/bisecting_regressions.html,/contributing/workflow/bisecting_regressions.html
@@ -419,3 +420,5 @@ source,destination
 /tutorials/viewports/multiple_resolutions.html,/tutorials/rendering/multiple_resolutions.html
 /tutorials/viewports/using_viewport_as_texture.html,/tutorials/shaders/using_viewport_as_texture.html
 /tutorials/viewports/viewports.html,/tutorials/rendering/viewports.html
+/contributing/development/compiling/compiling_for_uwp.html,/about/faq.html#which-platforms-are-supported-by-godot
+/tutorials/export/exporting_for_uwp.html,/about/faq.html#which-platforms-are-supported-by-godot
